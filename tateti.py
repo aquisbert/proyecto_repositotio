@@ -1,3 +1,5 @@
+
+#este es un juego creado a base de matrices.
 import random
 
 def reconocerLineasOblicuas(matriz):
