@@ -11,6 +11,7 @@ commit desde github
 vamos agregar contenidoo nuevo a la rama master
 carla keiser estuvo aqui 
 
-acabamos de crear una rama en nueva y se llama footer
+acabamos de areglar la rama footer
 
-acabamos de crear una nueva rama llamada heder
+acabamos de areglar la rama heder
+
