@@ -15,4 +15,4 @@ acabamos de crear una rama en nueva y se llama footer en esta v1 nueva
 
 acabamos de crear una nueva rama llamada heder en esta v2 nueva
 
-cambios en el archivo antes de terminar el proyecto
+cambios echos por carla por un fork
