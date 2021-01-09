@@ -14,3 +14,5 @@ carla keiser estuvo aqui
 acabamos de crear una rama en nueva y se llama footer en esta v1 nueva
 
 acabamos de crear una nueva rama llamada heder en esta v2 nueva
+
+cambios echos por carla por un fork
